@@ -19,7 +19,7 @@ I have worked on quality-focused projects involving English and Arabic content, 
 
 | Project | What it demonstrates |
 | --- | --- |
-| [AI Output Evaluator Engine](https://github.com/hiba24-ian/AI--Output-Evaluator-Engine) | A Python rule-based baseline for checking AI-style outputs against test cases and reporting results. |
+| [AI Output Evaluator Engine](https://github.com/hiba24-ian/AI--Output-Evaluator-Engine) · [**Live Demo**](https://ai-output-evaluator-engine.onrender.com) | A Python rule-based baseline for checking AI-style outputs against test cases and reporting results, with an interactive dashboard. |
 | [AI Quality Lab – English & Arabic](https://github.com/hiba24-ian/i-quality-lab-english-arabic) | A bilingual human-review practice project with a structured quality rubric and sample evaluations. |
 | [LLM Safety & Content Moderation Dataset](https://github.com/hiba24-ian/llm-safety-content-moderation-dataset) | Sample content categories and a simple keyword-based moderation exercise. |
 | [AI Prompt Evaluation Pipeline](https://github.com/hiba24-ian/ai-prompt-evaluation-pipeline) | A basic prompt/output checking workflow using defined criteria. |
