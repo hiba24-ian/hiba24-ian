@@ -29,7 +29,7 @@ I have worked on quality-focused projects involving English and Arabic content, 
 
 ## Education
 
-- **MSc in Information Systems** — Cairo University
+- **MSc in Information Systems** — Arab Academy for Science & Technology
 - **Higher Diploma in Web Development** — UCD Professional Academy
 
 ## Technical foundation
